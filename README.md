@@ -30,7 +30,8 @@ Make sure you have Python 3 installed. Tkinter and JSON are built-in, so no extr
 
 1. Clone this repository
 
-git clone https://github.com/your-username/json-data-manager.git
+git clone https://github.com/your-username/json-data-manager.git 
+
 cd json-data-manager
 
 
